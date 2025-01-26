@@ -1,0 +1,6 @@
+C:\WINDOWS\system32\wsl.exe --distribution Ubuntu-22.04 --exec /bin/bash -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/c/Users/james/CLionProjects/vorynix/cmake-build-relwithdebinfo-wsl && /usr/bin/cmake -DCMAKE_BUILD_TYPE=RelWithDebInfo -G 'CodeBlocks - Unix Makefiles' -S /mnt/c/Users/james/CLionProjects/vorynix -B /mnt/c/Users/james/CLionProjects/vorynix/cmake-build-relwithdebinfo-wsl"
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.24 or higher is required.  You are running version 3.22.1
+
+
+-- Configuring incomplete, errors occurred!

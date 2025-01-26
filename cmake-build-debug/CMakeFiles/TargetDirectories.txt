@@ -1,0 +1,3 @@
+C:/Users/james/CLionProjects/vorynix/cmake-build-debug/CMakeFiles/vorynix.dir
+C:/Users/james/CLionProjects/vorynix/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/james/CLionProjects/vorynix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
