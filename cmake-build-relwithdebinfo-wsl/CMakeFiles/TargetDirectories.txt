@@ -1,0 +1,3 @@
+/mnt/c/Users/james/CLionProjects/vorynix/cmake-build-relwithdebinfo-wsl/CMakeFiles/vorynix.dir
+/mnt/c/Users/james/CLionProjects/vorynix/cmake-build-relwithdebinfo-wsl/CMakeFiles/edit_cache.dir
+/mnt/c/Users/james/CLionProjects/vorynix/cmake-build-relwithdebinfo-wsl/CMakeFiles/rebuild_cache.dir
